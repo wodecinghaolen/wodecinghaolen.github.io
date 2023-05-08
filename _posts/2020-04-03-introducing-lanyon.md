@@ -34,5 +34,5 @@ Lanyon is by preference a forward-thinking project. In addition to the latest ve
 ### Download
 
 Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
+<img src="/image/img1.jpg" alt="wallpaper">
 Thanks!
